@@ -1,1 +1,1 @@
-Code can be found under FlightAce\Assets\Scripts.
+Small 2D shooter game.
