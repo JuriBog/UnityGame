@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c202d085-eb66-4d03-a5a5-0965c12a78a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jbo_AI" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActorCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActorHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Background.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Soundhandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/38/946bb876/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/17/0d8ac4ff/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/b7/707995ca/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/05/f9eaabe7/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaces/IWeaponInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaces/IActualRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/64/eade35b6/Material.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaces/IMovementInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/interfaces/IActorContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/weapon/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/1b/17edc84f/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/weapon/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/player/PlayerMovementInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/player/PlayerWeaponInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/player/PlayerActualRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/76/58bded18/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyWeaponInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/player/PlayerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/65/d69c0c20/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48050808-8AEE-40CA-B708-18FF164A29D5/7b/2e48706b/WaitUntil.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyActualRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Prefabs/PlayerPlane.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/PlaneMotionCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovementInput.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/Ai.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaces/IRigidBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/AIMovementInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/weapon/EnemyWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/AIWeaponInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaces/IActualRole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaces/IActorContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/player/PlayerActualRole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/AIContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/EnemyMovementInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/EnemyActualRole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/EnemyContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/PlaneMotionCalculator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/EnemyWeaponInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyActualRole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaces/IWeaponInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/player/PlayerWeaponInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyWeaponInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/interfaces/IMovementInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/player/PlayerMovementInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/weapon/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/player/PlayerContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Soundhandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActorCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Soundhandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Scripts/ActorHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Scripts/Enemy/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Background.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/weapon/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Prefabs/PlayerPlane.prefab" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActorHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovementInput.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1doaS0EWgQNfwE2fUWBFF22PJFK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c202d085-eb66-4d03-a5a5-0965c12a78a1" name="Default Changelist" comment="" />
+      <created>1593093897563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593093897563</updated>
+      <workItem from="1593093935361" duration="4128000" />
+      <workItem from="1593161062282" duration="11104000" />
+      <workItem from="1593181766008" duration="749000" />
+      <workItem from="1593182800286" duration="13007000" />
+      <workItem from="1593277516932" duration="521000" />
+      <workItem from="1593694767994" duration="5298000" />
+      <workItem from="1593767977036" duration="15730000" />
+      <workItem from="1595616602867" duration="1341000" />
+      <workItem from="1595781368821" duration="2277000" />
+      <workItem from="1596202881599" duration="13608000" />
+      <workItem from="1596393915817" duration="15028000" />
+      <workItem from="1596443534246" duration="16066000" />
+      <workItem from="1596652338502" duration="504000" />
+      <workItem from="1596721800860" duration="4862000" />
+      <workItem from="1596790930393" duration="1352000" />
+      <workItem from="1596797591874" duration="18381000" />
+      <workItem from="1596834687432" duration="3287000" />
+      <workItem from="1596876658045" duration="10910000" />
+      <workItem from="1597051160587" duration="2629000" />
+      <workItem from="1597056836751" duration="5010000" />
+      <workItem from="1597066663261" duration="172000" />
+      <workItem from="1597148560485" duration="1849000" />
+      <workItem from="1607541723457" duration="971000" />
+      <workItem from="1607601288761" duration="65000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert AI Scheiß">
+      <created>1593695982765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593695982765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Revert AI Scheiß" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert AI Scheiß" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1607541747999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607541747998" />
+  </component>
+</project>
